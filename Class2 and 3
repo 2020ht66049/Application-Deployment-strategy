@@ -1,0 +1,23 @@
+Build phase of application-
+1) Who will decide on which language we need to write the code
+2) What would be the build tool
+3) What would be command to build a project
+4) Approche to solve build issue of a project
+6) What is the build phase(Intrigating business and non business logic)
+7) why developers are high paid employees for organization >> Elephant draw example
+8) Deployment steps for application > Deployment troubleshooting
+9) redeployment of application
+10) Pipeline steps for application deployment
+
+
+Release and deploy of Application-
+Why Multiple Environment
+Process management
+Unit testing, integration testing, functional testing, non functional testing, performance testing, Change incident and release management
+Updated Devops life cycle
+Build Engineee
+Release engineer
+
+Application suport team vs platform Engineering team
+Dedicated server vs shared server
+Cost calculation
